@@ -1,2 +1,3 @@
 # hello-world
 learning!!!
+Hey everyone,my name is Kenny i am 30 yrs. old from Augusta Ga. Out of highschool i started programming at my local community college,and had to to stop and get a job to support my new family. I got into Flooring and have been working the same "dead end" job for the past ten years..I am now trying to teach myself in my spare time....any tips are greatly appreciated.....
